@@ -30,5 +30,5 @@ This project is a **University Management System** for **IIIT Kottayam** that he
    javac -d . University.java UniversityApp.java
 2. Run the application.
  ```sh
-    java com.iiitk.UniversityApp
+   java com.iiitk.UniversityApp
 
