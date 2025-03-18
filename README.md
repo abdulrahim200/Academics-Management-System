@@ -1,6 +1,6 @@
 # Academics-Management-System
 ## Overview
-This project is a **University Management System** for **IIIT Kottayam** that helps manage different users within the university. It provides an interactive console-based system where different types of users can log in and perform tasks.
+This project is a **University Management System** for **IIIT Kottayam** that helps manage different users within the university. It provides an interactive console-based system where different types of users can log in and perform tasks.Each role has specific functionalities tailored to their needs, such as managing courses, viewing academic records, and handling administrative tasks.
 
 ## Features
 - **Admin User**: Handles administrative functions.
@@ -29,6 +29,9 @@ This project is a **University Management System** for **IIIT Kottayam** that he
     ```sh
    javac -d . University.java UniversityApp.java
 2. Run the application.
- ```sh
-   java com.iiitk.UniversityApp
+   ```sh
+    java UniversityApp
+ ##License
+ This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it as per the license terms.
 
+ For any questions or issues, please open an issue on the GitHub repository. Thank you for using the Academics Management System!
