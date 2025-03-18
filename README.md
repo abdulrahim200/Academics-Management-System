@@ -31,7 +31,7 @@ This project is a **University Management System** for **IIIT Kottayam** that he
 2. Run the application.
    ```sh
     java UniversityApp
- ##License
+ ## License
  This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it as per the license terms.
 
  For any questions or issues, please open an issue on the GitHub repository. Thank you for using the Academics Management System!
